@@ -9,7 +9,7 @@ import KeyboardAwareSectionList from './lib/KeyboardAwareSectionList'
 
 export {
   listenToKeyboardEvents,
-  KeyboardAwareAnimatedScrollView
+  KeyboardAwareAnimatedScrollView,
   KeyboardAwareListView,
   KeyboardAwareFlatList,
   KeyboardAwareSectionList,
